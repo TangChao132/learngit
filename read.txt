@@ -1,2 +1,2 @@
-123456789
-i am a goog gay
+Git is a distributed version control system.
+Git is free software.
