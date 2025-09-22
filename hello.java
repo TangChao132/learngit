@@ -1,5 +1,7 @@
+import java.util.Map;
+
 public class hello {
     public static void main(String[] args) {
-        System.out.println();
+        Map<String, String> getenv = System.getenv();
     }
 }
